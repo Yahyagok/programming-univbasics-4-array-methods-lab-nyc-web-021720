@@ -21,4 +21,3 @@ end
 def using_size(array)
 array.length
 end
-array = ["mike", 'garry,"element"]
